@@ -1,0 +1,113 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+2026-05-31 23:59
+[0] (172,94)<a class='bh-advert-content' href='/tw/competitions/m89cvwyxccq3fw6vt3?utm_source=bhuntr&utm_medium=PROMO_site&utm_campaign=PROMO_m89cvwyxccq3fw6vt3' />
+	[1] (75,94)<div  />
+		[2] (75,94)<div  />
+	[3] (215,94)<div >遠雄⼈壽第八屆金險獎：金曲影音奪獎賽 />
+		遠雄⼈壽第八屆金險獎：金曲影音奪獎賽
+		[4] (215,110)<div >350,000 TWD />
+			[5] (130,110)<i  />
+		[6] (215,140)<div >2026-06-05 17:00 />
+			[7] (133,140)<i  />
+[8] (172,244)<a class='bh-advert-content' href='/tw/competitions/2ghe08r9z6ib882ui7?utm_source=bhuntr&utm_medium=PROMO_wall&utm_campaign=PROMO_2ghe08r9z6ib882ui7' />
+	[9] (75,244)<div  />
+		[10] (75,244)<div  />
+	[11] (215,244)<div  />
+		[12] (215,219)<div >2026 第七屆世界皮革創意設計大賽 />
+		[13] (215,261)<div >320,000 TWD />
+			[14] (130,260)<i  />
+		[15] (215,290)<div >2026-04-30 23:59 />
+			[16] (133,290)<i  />
+[17] (172,394)<a class='bh-advert-content' href='/tw/competitions/zwwljwwnsdx8lv9o3d?utm_source=bhuntr&utm_medium=PROMO_wall&utm_campaign=PROMO_zwwljwwnsdx8lv9o3d' />
+	[18] (75,394)<div  />
+		[19] (75,394)<div  />
+	[20] (215,394)<div  />
+		[21] (215,369)<div >OPEN CALL: Reconstruct Missile-Damaged Pavlov City House in Kharkiv />
+		[22] (215,411)<div >2026-06-16 04:59 />
+			[23] (133,410)<i  />
+[24] (172,545)<a class='bh-advert-content' href='/tw/competitions/6kjkqdnl2piwia05d2?utm_source=bhuntr&utm_medium=PROMO_wall&utm_campaign=PROMO_6kjkqdnl2piwia05d2' />
+	[25] (75,545)<div  />
+		[26] (75,545)<div  />
+	[27] (215,545)<div  />
+		[28] (215,519)<div >Zimný prístav Bratislava Winter Harbour Bratislava />
+		[29] (215,561)<div >410,000 EUR />
+			[30] (130,560)<i  />
+		[31] (215,591)<div >2026-09-28 23:00 />
+			[32] (133,590)<i  />
+[33] (172,695)<a class='bh-advert-content' href='/tw/competitions/8vjfb92y5gxmssg563?utm_source=bhuntr&utm_medium=PROMO_wall&utm_campaign=PROMO_8vjfb92y5gxmssg563' />
+	[34] (75,695)<div  />
+		[35] (75,695)<div  />
+	[36] (215,695)<div  />
+		[37] (215,669)<div >Arsenal Memory Park 學生概念設計競賽 />
+		[38] (215,711)<div >4,000 EUR />
+			[39] (130,711)<i  />
+		[40] (215,741)<div >2026-06-16 10:59 />
+			[41] (133,740)<i  />
+[42] (172,845)<a class='bh-advert-content' href='/tw/competitions/sqkqbni55cajmb64yv?utm_source=bhuntr&utm_medium=PROMO_wall&utm_campaign=PROMO_sqkqbni55cajmb64yv' />
+	[43] (75,845)<div  />
+		[44] (75,845)<div  />
+	[45] (215,845)<div  />
+		[46] (215,819)<div >2026 捷運盃黑客松 「玩點生活・智慧串聯」創新應用競賽 />
+		[47] (215,861)<div >135,000 TWD />
+			[48] (130,861)<i  />
+		[49] (215,891)<div >2026-05-15 23:59 />
+			[50] (133,891)<i  />
+[51] (172,995)<a class='bh-advert-content' href='/tw/competitions/onufvuh55sg81uutyj?utm_source=bhuntr&utm_medium=PROMO_wall&utm_campaign=PROMO_onufvuh55sg81uutyj' />
+	[52] (75,995)<div  />
+		[53] (75,995)<div  />
+	[54] (215,995)<div >150,000 TWD />
+		[55] (215,970)<div >115年度社區青年洄流-洄嘉青年FUN心玩社區 />
+		150,000 TWD
+評分項目
+佔比
+說明
+產品服務及商業模式創新性
+30%
+評估構想之創新程度
+市場與行銷可執行性
+20%
+評估市場進入與行銷策略
+團隊專業與執行能力
+20%
+評估團隊成員分工與執行潛力
+計畫內容完整性
+30%
+評估整體計畫書之嚴謹度
+第二階段（決賽）評分項目：
+評分項目
+佔比
+說明
+創業計畫完整性
+40%
+評估決賽計畫內容之深度
+市場與行銷可行性
+30%
+評估實際運作之可能性
+總體表現
+30%
+評估簡報技巧與 Q&A 回答表現
+註：決賽總成績計算方式為「初審成績佔 40% + 決審成績佔 60%」。
+活動獎勵
+第一名（一組）
+：禮券 25,000 元整、獎牌一座、獎狀一幀。
+第二名（一組）
+：禮券 15,000 元整、獎牌一座、獎狀一幀。
+第三名（一組）
+：禮券 10,000 元整、獎牌一座、獎狀一幀。
+優勝獎（三組）
+：每組禮券 5,000 元整、獎狀一幀。
+佳作獎（四組）
+：每組禮券 3,000 元整、獎狀一幀。
+參賽證明
+：參與競賽之團隊與指導老師均頒予參賽證書乙紙。
+註：獎項評定及頒發由評選委員會議決議之，必要時得以「從缺」辦理。
+注意事項
+基於公平原則，參賽小組在繳交報名資料前請仔細確認，繳交後不得抽換或更改相關資料。
+團隊之創業計畫書若已參加全國性、跨校性創業競賽活動並獲獎，或有一稿多投之情形，不得再繼續參加本競賽。
+我們使用 cookie 來個人化內容、投放廣告和分析流量。
+[56] (913,919)<button class='bh-button bh-button-gray'>確定 />
+
+</current_dom>

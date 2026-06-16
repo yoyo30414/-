@@ -1,0 +1,118 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,651)<div  />
+	收藏者
+	看更多
+	[1] (51,171)<a class='bh-avatar-ui ' href='/tw/user/ik4pdfw99x843i7r42' />
+		[2] (51,171)<div >吳 />
+	[3] (97,171)<a class='bh-avatar-ui ' href='/tw/user/kgqabenotue0njd6ht' />
+		[4] (97,171)<div >沈 />
+	[5] (143,171)<a class='bh-avatar-ui ' href='/tw/user/w0tr1dh2pjj07ws5og' />
+		[6] (143,171)<div >林 />
+	[7] (189,171)<a class='bh-avatar-ui ' href='/tw/user/do1v021cdti16j86he' />
+		[8] (189,171)<div >曹 />
+	[9] (235,171)<a class='bh-avatar-ui ' href='/tw/user/z1aofg1vbg0t6gdcin' />
+		[10] (235,171)<div >和 />
+	[11] (282,171)<a class='bh-avatar-ui ' href='/tw/user/x1myl5whyj0odyv1ig' />
+		[12] (282,171)<div >林 />
+	[13] (51,242)<a class='bh-avatar-ui ' href='/tw/user/tt4cgpnx6pttg3rrle' />
+		[14] (51,242)<div >鍾 />
+	[15] (97,242)<a class='bh-avatar-ui ' href='/tw/user/yxsh7pgcvuzpmgnq1d' />
+		[16] (97,242)<div >北 />
+	[17] (143,242)<a class='bh-avatar-ui ' href='/tw/user/4e6y9ekjb02olj9yrd' />
+		[18] (143,242)<div >金 />
+	[19] (189,242)<a class='bh-avatar-ui ' href='/tw/user/aacpj5bvsv1pell8fg' />
+		[20] (189,242)<div >蔡 />
+	[21] (235,242)<a class='bh-avatar-ui ' href='/tw/user/to4k44485a4l6jiazi' />
+		[22] (235,242)<div >1 />
+	[23] (282,242)<a class='bh-avatar-ui ' href='/tw/user/rzcr5e7qmo2u4tkg9f' />
+		[24] (282,242)<div >B />
+	[25] (51,312)<a class='bh-avatar-ui ' href='/tw/user/jsf6zj37nlrccav79t' />
+		[26] (51,312)<div >蔡 />
+	[27] (97,312)<a class='bh-avatar-ui ' href='/tw/user/il5nt80jlbzc9gm7rb' />
+		[28] (97,312)<div >吳 />
+	[29] (143,312)<a class='bh-avatar-ui ' href='/tw/user/ibsam968t2avnppzln' />
+		[30] (143,312)<div >張 />
+	[31] (189,312)<a class='bh-avatar-ui ' href='/tw/user/vzbau2knh6ki6qluzp' />
+		[32] (189,312)<div >0 />
+	[33] (235,312)<a class='bh-avatar-ui ' href='/tw/user/28160fcn8rpbf23eqg' />
+		[34] (235,312)<div >T />
+	[35] (282,312)<a class='bh-avatar-ui ' href='/tw/user/rk0kgr5mc2tkukxboa' />
+		[36] (282,312)<div >K />
+	[37] (51,383)<a class='bh-avatar-ui ' href='/tw/user/pc8ujevqk84oibm9os' />
+		[38] (51,383)<div >沈 />
+	[39] (97,383)<a class='bh-avatar-ui ' href='/tw/user/j45ahikqrrtpj4dij8' />
+		[40] (97,383)<div >小 />
+	[41] (143,383)<a class='bh-avatar-ui ' href='/tw/user/k3jpx56ngksqlzahvx' />
+		[42] (143,383)<div >葉 />
+	[43] (189,383)<a class='bh-avatar-ui ' href='/tw/user/6vd22nvls2w4mw4rkr' />
+		[44] (189,383)<div >M />
+	[45] (235,383)<a class='bh-avatar-ui ' href='/tw/user/kfuvdz57ke75d816zm' />
+		[46] (235,383)<div >朱 />
+	[47] (282,383)<a class='bh-avatar-ui ' href='/tw/user/4qh5lzugrdcztdrh96' />
+		[48] (282,383)<div >新 />
+	小酒館也推薦
+	[49] (172,627)<a class='bh-advert-content' href='/tw/competitions/41ycd1mism42ss2vx5?utm_source=bhuntr&utm_medium=PROMO_site&utm_campaign=PROMO_41ycd1mism42ss2vx5' />
+		[50] (75,627)<div  />
+			[51] (75,627)<div  />
+		[52] (215,627)<div  />
+			[53] (215,601)<div >共創100 活出新『泰』度!第二屆國泰人壽全國創意提案&圖文競賽 />
+			[54] (215,643)<div >1,000,000 TWD />
+				[55] (130,643)<i  />
+			[56] (215,673)<div >2026-06-12 17:00 />
+				[57] (133,672)<i  />
+	[58] (172,777)<a class='bh-advert-content' href='/tw/competitions/arg1oxv0yy4drcw8x9?utm_source=bhuntr&utm_medium=PROMO_site&utm_campaign=PROMO_arg1oxv0yy4drcw8x9' />
+		[59] (75,777)<div  />
+			[60] (75,777)<div  />
+		[61] (215,777)<div  />
+			[62] (215,751)<div >「美到出琪不意」美琪創意短影音徵件競賽 />
+			[63] (215,793)<div >120,000 TWD />
+				[64] (130,793)<i  />
+			[65] (215,823)<div >2026-05-04 17:00 />
+				[66] (133,823)<i  />
+	[67] (172,927)<a class='bh-advert-content' href='/tw/competitions/soi8x1xdy4m7k4e9n2?utm_source=bhuntr&utm_medium=PROMO_wall&utm_campaign=PROMO_soi8x1xdy4m7k4e9n2' />
+		[68] (75,927)<div  />
+			[69] (75,927)<div  />
+		[70] (215,927)<div  />
+			[71] (215,902)<div >第22屆全國技專校院電腦動畫競賽 />
+			[72] (215,943)<div >2026-05-31 23:59 />
+				[73] (133,943)<i  />
+	競賽說明會：115 年 3 月 18 日（三）。
+	報名與收件截止：即日起至 115 年 5 月 5 日（二）截止。
+	入圍決賽公告：115 年 6 月 1 日（一），公告於北護育成中心官方網站。
+	決賽簡報繳交截止：115 年 6 月 10 日（三）截止收件。
+	決賽暨頒獎典禮：115 年 6 月 12 日（五）。
+	決賽地點：國立臺北護理健康大學（校本部）親仁樓 3 樓 B317 會議室。
+	報名方式
+	報名流程
+	：
+	填寫線上報名表單：
+	[74] (588,311)<a href='/tw/external-link?url=https%3A%2F%2Freurl.cc%2F1k6VpV'>https://reurl.cc/1k6VpV />
+	。
+	將所需電子檔（附件一至三）Email 至主辦單位信箱：2healthyxhappy@gmail.com。
+	若檔案過大，請使用雲端硬碟上傳並授權承辦單位下載。
+	應繳交文件
+	：
+	團隊報名表乙份。
+	創業計畫書乙份。
+	個資蒐集告知函暨切結書乙份。
+	創業計畫書格式要求
+	：
+	內容長度：以 20 頁為限（不含封面頁、目錄、附錄與參考資料）。
+	版面設定：A4 規格紙張、直式橫書、邊界設定各為 2 公分。
+	字型與段落：標楷體 12 號字、編排頁碼、內文行距固定行高 18pt。
+	檔案格式：統一為 PDF 檔，檔案名稱為「作品名稱_團隊名稱.pdf」。
+	評審規範
+	評審流程分為「第一階段（初審）」及「第二階段（決賽）」兩個部分。
+	階段
+	說明
+	第一階段（初審）
+	採書面審查方式，預計選出前 10-15 組團隊入圍決賽。
+	第二階段（決賽）
+	採現場簡報，每組限時 12 分鐘（提案簡報 8 分鐘，統問統答 Q&A 4 分鐘）。需繳交 PowerPoint 電子檔，繳交後不得變更。
+	我們使用 cookie 來個人化內容、投放廣告和分析流量。
+	[75] (913,919)<button class='bh-button bh-button-gray'>確定 />
+
+</current_dom>

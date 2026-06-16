@@ -1,0 +1,61 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+投稿中
+徵件期間
+2026-03-11 16:21
+至
+2026-05-05 23:59
+[0] (44,160)<a class='bh-icon' href='https://www.google.com/calendar/event?action=TEMPLATE&text=2026（第十屆）全國大專校院「Healthy x Happy」創新創業競賽 徵件期間&dates=20260311T082100Z/20260505T155959Z&details=2026（第十屆）全國大專校院「Healthy x Happy」創新創業競賽 活動網址 https://bhuntr.com/tw/competitions/7obcev5or7nivht0j7&location=&trp=false&sprop=name:' />
+	[1] (44,160)<i  />
+得獎公布時間
+2026-06-12 17:00
+[2] (170,238)<a class='bh-icon' href='https://www.google.com/calendar/event?action=TEMPLATE&text=2026（第十屆）全國大專校院「Healthy x Happy」創新創業競賽 得獎公布時間&dates=20260612T090000Z/20260612T090000Z&details=2026（第十屆）全國大專校院「Healthy x Happy」創新創業競賽 活動網址 https://bhuntr.com/tw/competitions/7obcev5or7nivht0j7&location=&trp=false&sprop=name:' />
+	[3] (170,238)<i  />
+主辦單位
+國立臺北護理健康大學育成中心
+協辦/執行：
+國立臺北護理健康大學育成中心
+電話：
+(02)2822-7101 分機 2727
+Email：
+shihping@ntunhs.edu.tw
+國家/地區：
+台灣
+相關分類與標籤
+[4] (68,736)<a class='bh-value' href='https://bhuntr.com/tw/competitions?category=117'>創業競賽 />
+[5] (149,736)<a class='bh-value' href='https://bhuntr.com/tw/competitions?category=116'>企劃競賽 />
+[6] (230,736)<a class='bh-value' href='https://bhuntr.com/tw/tag/%E5%81%A5%E5%BA%B7%E5%BF%AB%E6%A8%82'>健康快樂 />
+[7] (68,781)<a class='bh-value' href='https://bhuntr.com/tw/tag/%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD'>創新創業 />
+[8] (149,781)<a class='bh-value' href='https://bhuntr.com/tw/tag/%E9%8A%80%E9%AB%AE%E5%95%86%E6%A9%9F'>銀髮商機 />
+[9] (230,781)<a class='bh-value' href='https://bhuntr.com/tw/tag/%E6%A9%98%E8%89%B2%E7%A7%91%E6%8A%80'>橘色科技 />
+[10] (68,826)<a class='bh-value' href='https://bhuntr.com/tw/tag/%E7%A4%BE%E6%9C%83%E4%BC%81%E6%A5%AD'>社會企業 />
+[11] (149,826)<a class='bh-value' href='https://bhuntr.com/tw/tag/%E5%A4%A2%E6%83%B3%E5%95%9F%E8%88%AA'>夢想啟航 />
+[12] (230,826)<a class='bh-value' href='https://bhuntr.com/tw/tag/%E5%89%B5%E6%A5%AD%E8%A8%88%E7%95%AB'>創業計畫 />
+[13] (68,872)<a class='bh-value' href='https://bhuntr.com/tw/tag/%E8%B7%A8%E5%9F%9F%E7%B5%84%E9%9A%8A'>跨域組隊 />
+[14] (149,872)<a class='bh-value' href='https://bhuntr.com/tw/tag/%E7%8D%8E%E9%87%91%E7%8D%B5%E4%BA%BA'>獎金獵人 />
+[15] (230,872)<a class='bh-value' href='https://bhuntr.com/tw/tag/%E5%89%B5%E6%84%8F%E7%84%A1%E9%99%90'>創意無限 />
+活動刊登資訊
+此內容部分經由 AI 整理，請仔細確認。
+前言
+2026（第十屆）全國大專校院「Healthy x Happy」創新創業競賽以「Healthy x Happy」為核心價值，旨在針對健康促進議題激盪創意構想與創新產品或服務。
+活動簡介
+本活動由國立臺北護理健康大學育成中心主辦，透過競賽平台鼓勵全國大專校院學生發揮創意，將健康與快樂的理念轉化為具體的創新創業計畫。
+活動主題
+包含以下相關主題：
+健康產業
+銀髮事業
+社會企業
+橘色科技
+其他健康與快樂相關主題
+參賽資格
+全國大專校院在學學生皆可報名參加。
+須以團隊方式報名，每隊成員 2 至 5 名。
+每人至多可參加二組隊伍，允許跨科系或跨校組隊。
+各隊需推派 1 名隊長負責後續聯絡。
+團隊皆須列指導老師 1 至 2 名（可跨校指導），但指導老師不得為團隊成員。
+我們使用 cookie 來個人化內容、投放廣告和分析流量。
+[16] (913,919)<button class='bh-button bh-button-gray'>確定 />
+
+</current_dom>

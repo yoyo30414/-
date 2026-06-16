@@ -1,0 +1,101 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+「美到出琪不意」美琪創意短影音徵件競賽
+[0] (215,85)<div >120,000 TWD />
+	[1] (130,85)<i  />
+[2] (215,115)<div >2026-05-04 17:00 />
+	[3] (133,114)<i  />
+[4] (172,219)<a class='bh-advert-content' href='/tw/competitions/soi8x1xdy4m7k4e9n2?utm_source=bhuntr&utm_medium=PROMO_wall&utm_campaign=PROMO_soi8x1xdy4m7k4e9n2' />
+	[5] (75,219)<div  />
+		[6] (75,219)<div  />
+	[7] (215,219)<div  />
+		[8] (215,193)<div >第22屆全國技專校院電腦動畫競賽 />
+		[9] (215,235)<div >2026-05-31 23:59 />
+			[10] (133,235)<i  />
+[11] (172,369)<a class='bh-advert-content' href='/tw/competitions/layt6d4hl4cxf4zf2r?utm_source=bhuntr&utm_medium=PROMO_wall&utm_campaign=PROMO_layt6d4hl4cxf4zf2r' />
+	[12] (75,369)<div  />
+		[13] (75,369)<div  />
+	[14] (215,369)<div  />
+		[15] (215,343)<div >第六屆台灣尤努斯創新獎 />
+		[16] (215,385)<div >650,000 TWD />
+			[17] (130,385)<i  />
+		[18] (215,415)<div >2026-05-31 23:59 />
+			[19] (133,415)<i  />
+[20] (172,519)<a class='bh-advert-content' href='/tw/competitions/m89cvwyxccq3fw6vt3?utm_source=bhuntr&utm_medium=PROMO_site&utm_campaign=PROMO_m89cvwyxccq3fw6vt3' />
+	[21] (75,519)<div  />
+		[22] (75,519)<div  />
+	[23] (215,519)<div  />
+		[24] (215,494)<div >遠雄⼈壽第八屆金險獎：金曲影音奪獎賽 />
+		[25] (215,535)<div >350,000 TWD />
+			[26] (130,535)<i  />
+		[27] (215,565)<div >2026-06-05 17:00 />
+			[28] (133,565)<i  />
+[29] (172,669)<a class='bh-advert-content' href='/tw/competitions/2ghe08r9z6ib882ui7?utm_source=bhuntr&utm_medium=PROMO_wall&utm_campaign=PROMO_2ghe08r9z6ib882ui7' />
+	[30] (75,669)<div  />
+		[31] (75,669)<div  />
+	[32] (215,669)<div  />
+		[33] (215,644)<div >2026 第七屆世界皮革創意設計大賽 />
+		[34] (215,686)<div >320,000 TWD />
+			[35] (130,685)<i  />
+		[36] (215,715)<div >2026-04-30 23:59 />
+			[37] (133,715)<i  />
+[38] (172,819)<a class='bh-advert-content' href='/tw/competitions/zwwljwwnsdx8lv9o3d?utm_source=bhuntr&utm_medium=PROMO_wall&utm_campaign=PROMO_zwwljwwnsdx8lv9o3d' />
+	[39] (75,819)<div  />
+		[40] (75,819)<div  />
+	[41] (215,819)<div  />
+		[42] (215,794)<div >OPEN CALL: Reconstruct Missile-Damaged Pavlov City House in Kharkiv />
+		[43] (215,836)<div >2026-06-16 04:59 />
+			[44] (133,835)<i  />
+[45] (172,970)<a class='bh-advert-content' href='/tw/competitions/6kjkqdnl2piwia05d2?utm_source=bhuntr&utm_medium=PROMO_wall&utm_campaign=PROMO_6kjkqdnl2piwia05d2' />
+	[46] (75,970)<div  />
+		[47] (75,970)<div  />
+	[48] (215,970)<div  />
+		[49] (215,944)<div >Zimný prístav Bratislava Winter Harbour Bratislava />
+		[50] (215,986)<div >410,000 EUR />
+			[51] (130,985)<i  />
+評審規範
+評審流程分為「第一階段（初審）」及「第二階段（決賽）」兩個部分。
+階段
+說明
+第一階段（初審）
+採書面審查方式，預計選出前 10-15 組團隊入圍決賽。
+第二階段（決賽）
+採現場簡報，每組限時 12 分鐘（提案簡報 8 分鐘，統問統答 Q&A 4 分鐘）。需繳交 PowerPoint 電子檔，繳交後不得變更。
+評分標準
+第一階段（初審）評分項目：
+評分項目
+佔比
+說明
+產品服務及商業模式創新性
+30%
+評估構想之創新程度
+市場與行銷可執行性
+20%
+評估市場進入與行銷策略
+團隊專業與執行能力
+20%
+評估團隊成員分工與執行潛力
+計畫內容完整性
+30%
+評估整體計畫書之嚴謹度
+第二階段（決賽）評分項目：
+評分項目
+佔比
+說明
+創業計畫完整性
+40%
+評估決賽計畫內容之深度
+市場與行銷可行性
+30%
+評估實際運作之可能性
+總體表現
+30%
+評估簡報技巧與 Q&A 回答表現
+註：決賽總成績計算方式為「初審成績佔 40% + 決審成績佔 60%」。
+活動獎勵
+我們使用 cookie 來個人化內容、投放廣告和分析流量。
+[52] (913,919)<button class='bh-button bh-button-gray'>確定 />
+
+</current_dom>

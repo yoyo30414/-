@@ -1,0 +1,788 @@
+.Week1 {
+	font-size: 12px;
+	color: #707070;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-weight: bolder;
+	text-decoration: none;
+	list-style-position: outside;
+	list-style-image: url(icon/04a.gif);
+	background-repeat: repeat-x;
+	background-position: center bottom;
+	line-height: 16px;
+}
+.Week2 {
+	font-size: 12px;
+	color: #007181;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-weight: bolder;
+	text-decoration: none;
+	list-style-position: outside;
+	list-style-image: url(icon/04a.gif);
+	background-repeat: repeat-x;
+	background-position: center bottom;
+	line-height: 16px;
+}
+.Week3 {
+	font-size: 12px;
+	color: #CC0000;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-weight: bolder;
+	text-decoration: none;
+	list-style-position: outside;
+	list-style-image: url(icon/04a.gif);
+	background-repeat: repeat-x;
+	background-position: center bottom;
+	line-height: 16px;
+}
+
+.Week4 {
+	font-size: 10pt;
+	color: #333333;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	font-weight: normal;
+	line-height: 30px;
+}
+.Week4a {
+	font-size: 10pt;
+	color: #dc939d;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	font-weight: normal;
+	line-height: 30px;
+}
+.Week4b {
+	font-size: 10pt;
+	color: #007181;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	font-weight: normal;
+	line-height: 30px;
+}
+.Week5 {
+	font-size: 10pt;
+	color: #CCCCCC;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	font-weight: normal;
+	line-height: 30px;
+}
+.menuN1 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #990000;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	line-height: 35px;
+	text-decoration: blink;
+	font-weight: bold;
+	text-decoration: none;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN1:link {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 15px;
+	line-height: 22px;
+	color: #dc939d;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN1:visited {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 15px;
+	line-height: 22px;
+	color: #dc939d;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN1:hover {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 15px;
+	line-height: 22px;
+	color: #333333;
+	font-weight: bold;
+	text-decoration: none;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN1:active {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 15px;
+	line-height: 22px;
+	color: #dc939d;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+.menuN2 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	line-height: 22px;
+	text-decoration: blink;
+	font-weight: bold;
+	text-decoration: none;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2:link {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 14px;
+	line-height: 22px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2:visited {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 14px;
+	line-height: 22px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2:hover {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 14px;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2:active {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 14px;
+	line-height: 22px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+
+.menuN2a {
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	line-height: 28px;
+	text-decoration: blink;
+	font-weight: bold;
+	text-decoration: none;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2a:link {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 18px;
+	line-height: 28px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2a:visited {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 18px;
+	line-height: 28px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2a:hover {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 18px;
+	line-height: 28px;
+	color: #FFCC00;
+	font-weight: bold;
+	text-decoration: none;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2a:active {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 18px;
+	line-height: 28px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+
+.menuN2b {
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	line-height: 28px;
+	text-decoration: blink;
+	font-weight: bold;
+	text-decoration: none;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2b:link {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 18px;
+	line-height: 28px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2b:visited {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 18px;
+	line-height: 28px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2b:hover {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 18px;
+	line-height: 28px;
+	color: #B9E9C3;
+	font-weight: bold;
+	text-decoration: none;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2b:active {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 18px;
+	line-height: 28px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+
+.menuN2c {
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	line-height: 28px;
+	text-decoration: blink;
+	font-weight: bold;
+	text-decoration: none;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2c:link {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 18px;
+	line-height: 28px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2c:visited {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 18px;
+	line-height: 28px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2c:hover {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 18px;
+	line-height: 28px;
+	color: #A9C0E2;
+	font-weight: bold;
+	text-decoration: none;
+	list-style-image: url(replace/icon.gif);
+}
+a.menuN2c:active {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 18px;
+	line-height: 28px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+.menu2 {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 16pt;
+	color: #666666;
+	text-decoration: none;
+}
+a.menu2:visited {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 16pt;
+	color: #666666;
+	text-decoration: none;
+}
+a.menu2:hover {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 16pt;
+	color: #000000;
+	text-decoration: none;
+}
+a.menu2:active {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 16pt;
+	color: #666666;
+	text-decoration: none;
+}
+.menu20 {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 16px;
+	line-height: 26px;
+	color: #5EAEB9;
+	text-decoration: none;
+	font-weight: bold;
+}
+.explain {
+	font-size: 10pt;
+	color: #666666;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	font-weight: normal;
+	line-height: 18px;
+
+}
+.explainN1 {
+	font-size: 12px;
+	color: #977448;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-weight: normal;
+	text-decoration: none;
+	line-height: 16px;
+}
+.explain1b {
+	font-size: 11px;
+	color: #f4c6c3;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-weight: normal;
+	text-decoration: none;
+	line-height: 16px;
+}
+.explain3 {
+	font-size: 9px;
+	color: #999999;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-weight: normal;
+	text-decoration: none;
+}
+.contents {
+	font-size: 10pt;
+	color: #333333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	text-decoration: none;
+	list-style-position: outside;
+	background-repeat: repeat-x;
+	background-position: bottom;
+	line-height: 20px;
+}
+.contents1 {
+	font-size: 11px;
+	color: #707070;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-weight: normal;
+	text-decoration: none;
+	list-style-position: outside;
+	list-style-image: url(icon/04a.gif);
+	background-repeat: repeat-x;
+	background-position: center bottom;
+	line-height: 16px;
+}
+table .contents
+{
+	font-size: 11pt;
+	color: #333333;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-weight: normal;
+	text-decoration: none;
+	list-style-position: outside;
+	background-repeat: repeat-x;
+	background-position: bottom;
+	line-height: 20px;
+}
+table .contents th,
+table .contents td{
+	background-color: #FFFFFF;
+}
+table .contents td{
+	padding-left:10px;
+}
+.pLeft{
+	padding-left:25px;
+}
+.titleA1 {
+	font-size: 18px;
+	color: #000000;
+	font-weight: bold;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	line-height: normal;
+}
+.title_qa5 {
+	font-size: 9pt;
+	color: #ee86ad;
+	font-weight: bold;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+}
+.title16{
+	font-size: 12pt;
+	color: #4b4b4b;
+	font-weight: bold;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	line-height: 26px;
+}
+.title11{
+	font-size: 15px;
+	color: #585858;
+	font-weight: bold;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	line-height: 22px;
+}
+.title12{
+	font-size: 16px;
+	color: #333333;
+	font-weight: bold;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	line-height: 26px;
+}
+.titleN1 {
+	font-size: 18px;
+	color: #007181;
+	font-weight: normal;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+    text-decoration: none;
+	line-height: 22px;
+}
+.titleN2 {
+	font-size: 12px;
+	color: #FF6600;
+	font-weight: normal;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	line-height: 22px;
+}
+.titleN3 {
+	font-size: 16px;
+	color: #977347;
+	font-weight: bold;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	line-height: 22px;
+}
+.titleN4 {
+	font-size: 12px;
+	color: #977347;
+	font-weight: bold;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	line-height: 22px;
+}
+.titleN5 {
+	font-size: 18px;
+	color: #666666;
+	font-weight: normal;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	line-height: 22px;
+}
+.title2 {
+	font-size: 10pt;
+	color: #4D4D4D;
+	font-weight: bold;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+}
+.customer {
+	font-size: 10pt;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;	
+}	
+.menu4 {
+	font-size: 9pt;
+	font-weight: normal;
+	color: #707070;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	line-height: 18px;
+	text-decoration: blink;
+	text-decoration: none;
+}
+a.menu4:link {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 9pt;
+	line-height: 18px;
+	color: #707070;
+	text-decoration: none;
+}
+a.menu4:visited {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 9pt;
+	line-height: 18px;
+	color: #707070;
+	text-decoration: none;
+}
+a.menu4:hover {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 9pt;
+	line-height: 18px;
+	color: #333333;
+	text-decoration: none;
+}
+a.menu4:active {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 9pt;
+	line-height: 18px;
+	color: #707070;
+	text-decoration: none;
+}	
+.menu8 {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 12pt;
+	color: #59493f;
+	text-decoration: none;
+}
+a.menu8:visited {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 12pt;
+	color: #59493f;
+	text-decoration: none;
+}
+a.menu8:hover {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 12pt;
+	color: #FF9900;
+	text-decoration: none;
+}
+a.menu8:active {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 12pt;
+	color: #59493f;
+	text-decoration: none;
+}
+.menu8a {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 12pt;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.menu8a:visited {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 12pt;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.menu8a:hover {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 12pt;
+	color: #FFFFCC;
+	text-decoration: none;
+}
+a.menu8a:active {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 12pt;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.menu5 {
+	font-size: 16px;
+	font-weight: bold;
+	color: #666666;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	line-height: 19px;
+	text-decoration: blink;
+	font-weight: bold;
+	text-decoration: none;
+	list-style-image: url(replace/icon.gif);
+}
+a.menu5:link {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 15px;
+	line-height: 19px;
+	color: #666666;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+a.menu5:visited {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 15px;
+	line-height: 19px;
+	color: #666666;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}
+a.menu5:hover {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 15px;
+	line-height: 19px;
+	color: #333333;
+	font-weight: bold;
+	text-decoration: none;
+	list-style-image: url(replace/icon.gif);
+}
+a.menu5:active {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 15px;
+	line-height: 19px;
+	color: #666666;
+	text-decoration: none;
+	font-weight: bold;
+	list-style-image: url(replace/icon.gif);
+}		
+.menu5b {
+	font-size: 13px;
+	font-weight: bold;
+	color: #333333;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	line-height: 19px;
+	text-decoration: none;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.menu5b:link {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 13px;
+	line-height: 19px;
+	color: #333333;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.menu5b:visited {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 13px;
+	line-height: 19px;
+	color: #333333;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.menu5b:hover {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 13px;
+	line-height: 19px;
+	color: #666666;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.menu5b:active {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 13px;
+	line-height: 19px;
+	color: #333333;
+	text-decoration: none;
+	font-weight: bold;
+}	
+.menu10a {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 12px;
+	line-height: 18px;
+	color: #707070;
+	text-decoration: none;
+	font-weight: normal;
+}
+a.menu10a:visited {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 12px;
+	line-height: 18px;
+	color: #707070;
+	text-decoration: none;
+}
+a.menu10a:hover {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 12px;
+	line-height: 18px;
+	color: #666666;
+	text-decoration: none;
+}
+a.menu10a:active {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 12px;
+	line-height: 18px;
+	color: #707070;
+	text-decoration: none;
+}
+.menu12a {
+	font-size: 10pt;
+	font-weight: normal;
+	color: #707070;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	line-height: 18px;
+	text-decoration: blink;
+	text-decoration: none;
+	position: static;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+a.menu12a:link {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 18px;
+	color: #707070;
+	text-decoration: none;
+}
+a.menu12a:visited {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 12pt;
+	line-height: 18px;
+	color: #707070;
+	text-decoration: underline;
+}
+a.menu12a:hover {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 18px;
+	color: #333333;
+	text-decoration: none;
+}
+a.menu12a:active {
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	font-size: 10pt;
+	line-height: 18px;
+	color: #707070;
+	text-decoration: none;
+}
+
+.titleA1 {
+	font-size: 18px;
+	color: #000000;
+	font-weight: bold;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	line-height: normal;
+}
+
+.titleA2 {
+	font-size: 18px;
+	color: #006600;
+	font-weight: bold;
+	font-family: "Microsoft JhengHei", "微軟正黑體(TrueType)";
+	text-decoration: none;
+	line-height: normal;
+}
